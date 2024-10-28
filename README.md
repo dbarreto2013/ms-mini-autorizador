@@ -127,3 +127,7 @@ Cartão inexistente
    Body: CARTAO_INEXISTENTE
 ```
 ![Exceptions](./docs/images/5_exception_5.png)
+
+
+6. Coverage
+![Coverage](./docs/images/6_coverage.png)
